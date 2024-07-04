@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yfXD+DPsyTraIOUKLql3zDEUhaAkMbSKiOvX2/IU1i4JGW0Bx9JTf1CyyM62K8ZlkfgecjL0Bd3ps5sguKTEsA==",
+  "success": true,
+  "projectFilePath": "D:\\dev\\unit-tests\\Unit testing course code\\2.Techniques\\src\\TestingTechniques\\TestingTechniques.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\henrique.giaretta\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.30\\microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\henrique.giaretta\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.30\\microsoft.windowsdesktop.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\henrique.giaretta\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.30\\microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}

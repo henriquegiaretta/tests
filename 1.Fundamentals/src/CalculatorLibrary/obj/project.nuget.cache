@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "56lmJdWGfO+Y4Tlo+HQNYZj6ZiVfjGOxG4npYo6S2U6yEeZXY5rQ8cMX8Q8QnheMEQosTwTjbXFWIiLOajIHHQ==",
+  "success": true,
+  "projectFilePath": "D:\\dev\\unit-tests\\Unit testing course code\\1.Fundamentals\\src\\CalculatorLibrary\\CalculatorLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\henrique.giaretta\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.30\\microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\henrique.giaretta\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.30\\microsoft.windowsdesktop.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\henrique.giaretta\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.30\\microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}
